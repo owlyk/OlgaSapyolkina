@@ -4,35 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea11686d-e267-43c9-a2ec-76393642382d" name="Changes" comment="MyTask3">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/${project.build.directory}/classes/homework2/Building.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/OlgaSapyolkina.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/Lessons/Lessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/Lessons/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework2/Building.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ea11686d-e267-43c9-a2ec-76393642382d" name="Changes" comment="MyTask4">
       <change beforePath="$PROJECT_DIR$/.idea/OlgaSapyolkina.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OlgaSapyolkina.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/Lesson2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/src/main/java/homework2/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/src/main/java/homework2/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/OlgaSapyolkina.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/Lessons/Lessons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/Lessons/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework2/Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework3/Lucky.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework3/Puzzle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework4/details/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework4/professions/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework4/professions/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework4/vehicles/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework4/vehicles/SportCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlgaSapyolkina/homework4/vehicles/Truck.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,16 +55,22 @@
           <entry type="LOCAL">
             <value>
               <list>
-                <branch-info repo="$PROJECT_DIR$" source="hometask4" />
+                <branch-info repo="$PROJECT_DIR$" source="homeTaskN4" />
               </list>
             </value>
           </entry>
         </map>
       </branch-storage>
     </favorite-branches>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hometask3" />
+        <entry key="$PROJECT_DIR$" value="homeTaskN4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,6 +108,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -108,24 +117,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="homework2.Building" />
-      <module name="Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="homework5" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestForLucky">
     <configuration name="Lucky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework3.Lucky" />
       <module name="OlgaSapyolkina" />
@@ -139,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Main" />
       <module name="OlgaSapyolkina" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework4.*" />
+          <option name="PATTERN" value="homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,26 +159,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.Puzzle" />
+    <configuration name="TestForLucky" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OlgaSapyolkina" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.*" />
+          <option name="PATTERN" value="MyTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="MyTests" />
+      <option name="MAIN_CLASS_NAME" value="MyTests.TestForLucky" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForLucky.even" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OlgaSapyolkina" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyTests" />
+      <option name="MAIN_CLASS_NAME" value="MyTests.TestForLucky" />
+      <option name="METHOD_NAME" value="even" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForLucky.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OlgaSapyolkina" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyTests" />
+      <option name="MAIN_CLASS_NAME" value="MyTests.TestForLucky" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Puzzle" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.TestForLucky" />
+        <item itemvalue="TestNG.TestForLucky.test1" />
+        <item itemvalue="TestNG.TestForLucky.even" />
         <item itemvalue="Application.Lucky" />
-        <item itemvalue="Application.Building" />
-        <item itemvalue="Application.Puzzle" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +252,63 @@
       <option name="project" value="LOCAL" />
       <updated>1635790370715</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MyTask4">
+      <created>1636055095442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636055095442</updated>
+    </task>
+    <task id="LOCAL-00005" summary="MyTask4">
+      <created>1636055170427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636055170427</updated>
+    </task>
+    <task id="LOCAL-00006" summary="MyTask4">
+      <created>1636055349120</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636055349120</updated>
+    </task>
+    <task id="LOCAL-00007" summary="MyTask4">
+      <created>1636055491747</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636055491747</updated>
+    </task>
+    <task id="LOCAL-00008" summary="MyTask4">
+      <created>1636055524029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636055524029</updated>
+    </task>
+    <task id="LOCAL-00009" summary="MyTask4">
+      <created>1636055668626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636055668626</updated>
+    </task>
+    <task id="LOCAL-00010" summary="MyTask4">
+      <created>1636055679105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636055679105</updated>
+    </task>
+    <task id="LOCAL-00011" summary="MyTask4">
+      <created>1636056049591</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1636056049591</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
